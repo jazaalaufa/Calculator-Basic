@@ -1,0 +1,9 @@
+C:\Users\Yusuf\source\repos\AufaCalc\AufaCalc\obj\Debug\AufaCalc.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\AufaCalc\AufaCalc\obj\Debug\AufaCalc.Form1.resources
+C:\Users\Yusuf\source\repos\AufaCalc\AufaCalc\obj\Debug\AufaCalc.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\AufaCalc\AufaCalc\obj\Debug\AufaCalc.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\AufaCalc\AufaCalc\bin\Debug\AufaCalc.exe.config
+C:\Users\Yusuf\source\repos\AufaCalc\AufaCalc\bin\Debug\AufaCalc.exe
+C:\Users\Yusuf\source\repos\AufaCalc\AufaCalc\bin\Debug\AufaCalc.pdb
+C:\Users\Yusuf\source\repos\AufaCalc\AufaCalc\obj\Debug\AufaCalc.exe
+C:\Users\Yusuf\source\repos\AufaCalc\AufaCalc\obj\Debug\AufaCalc.pdb
